@@ -9,25 +9,28 @@ O objetivo é explorar, transformar e visualizar dados com base em estruturas do
 
 A base de dados utilizada é uma simulação de vendas e está disponível na plataforma [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/code). Ele contém informações de pedidos, produtos, vendas, clientes e dados geográficos.
 
-## Como rodar o Projeto
+## Como rodar o Projeto no Google Colab
 
-1. Baixe o arquivo
+1. Baixe os arquivos
 
-* Faça o download do notebook do projeto `data_driven_insights.ipynb` e da base de dados `sales_data_sample`
+* Faça o download do notebook do projeto `data_driven_insights.ipynb`
+* Base de dados `sales_data_sample.csv`
 
 2. Acesse o Google Colab
 
 * Vá em Arquivo > Fazer upload de notebook
+* Selecione o arquivo do projeto (`.pynb`)
 
-3. Faça upload do arquivo `.csv` direto no notebook
+3. Faça upload da Base de Dados `.csv`
 
-* Execute a célula abaixo para abrir o seletor de arquivos:
+* No início do notebook, execute a célula abaixo para abrir o seletor de arquivos:
 ```
 from google.colab import files
 uploaded = files.upload()
 ```
 
 * Selecione o arquivo `sales_data_sample.csv` baixado 
+
 
 ## Objetivos
 * Leitura e Exploração Inicial da Base: Compreensão da estrutura da base de dados  e os tipos de dados presentes.
