@@ -27,6 +27,8 @@ from google.colab import files
 uploaded = files.upload()
 ```
 
+* Selecione o arquivo `sales_data_sample.csv` baixado 
+
 ## Objetivos
 * Leitura e Exploração Inicial da Base: Compreensão da estrutura da base de dados  e os tipos de dados presentes.
 * Visualização dos Dados: Utilização de gráficos de linhas, barras e dispersão para compreender tendências e comparações.
