@@ -1,4 +1,4 @@
-# Data Driven Insights: Análise de Vendas 
+# Data Driven Insights: Análise de Vendas  
 
 ## Sobre o projeto
 O projeto "Data Driven Insights: Análise de Vendas", foi um trabalho desenvolvido como parte do programa Desenvolve do Grupo Boticário e a Escola Koru.
